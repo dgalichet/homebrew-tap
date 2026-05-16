@@ -1,13 +1,13 @@
 class ObsidianKb < Formula
   desc "Local-first hybrid retrieval CLI for Obsidian vaults"
   homepage "https://github.com/dgalichet/obsidian-kb"
-  version "0.1.3"
+  version "0.1.4"
   license "MIT OR Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/dgalichet/obsidian-kb/releases/download/v0.1.3/obsidian-kb-aarch64-apple-darwin.tar.gz"
-      sha256 "fa2319ddff8736ee27259581c1bbc89308c1ebe43e445422855481e44b8ddd3c"
+      url "https://github.com/dgalichet/obsidian-kb/releases/download/v0.1.4/obsidian-kb-aarch64-apple-darwin.tar.gz"
+      sha256 "530d99757a989874b5d42676af35a13ebe811b1760499c56a39a450fc8994163"
     end
   end
 
